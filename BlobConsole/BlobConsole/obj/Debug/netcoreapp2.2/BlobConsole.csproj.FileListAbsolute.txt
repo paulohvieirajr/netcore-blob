@@ -1,0 +1,11 @@
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\bin\Debug\netcoreapp2.2\BlobConsole.deps.json
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\bin\Debug\netcoreapp2.2\BlobConsole.runtimeconfig.json
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\bin\Debug\netcoreapp2.2\BlobConsole.runtimeconfig.dev.json
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\bin\Debug\netcoreapp2.2\BlobConsole.dll
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\obj\Debug\netcoreapp2.2\BlobConsole.csprojAssemblyReference.cache
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\obj\Debug\netcoreapp2.2\BlobConsole.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\obj\Debug\netcoreapp2.2\BlobConsole.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\obj\Debug\netcoreapp2.2\BlobConsole.AssemblyInfo.cs
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\bin\Debug\netcoreapp2.2\BlobConsole.pdb
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\obj\Debug\netcoreapp2.2\BlobConsole.dll
+C:\Users\paulo\Downloads\BlobConsole\BlobConsole\obj\Debug\netcoreapp2.2\BlobConsole.pdb
